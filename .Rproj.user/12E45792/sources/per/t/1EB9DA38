@@ -1,0 +1,28 @@
+{
+    "id": "1EB9DA38",
+    "path": "~/Documents/GitHub/simple.dashboard/R/app_server.R",
+    "project_path": "R/app_server.R",
+    "type": "r_source",
+    "hash": "3930624855",
+    "contents": "",
+    "dirty": false,
+    "created": 1611710825134.0,
+    "source_on_save": true,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "102,31",
+        "scrollLine": "101",
+        "docOutlineVisible": "1",
+        "softWrapLines": "false"
+    },
+    "folds": "333|12|348|2|\n",
+    "lastKnownWriteTime": 1612830091,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612830091335,
+    "read_only": false,
+    "read_only_alternatives": []
+}

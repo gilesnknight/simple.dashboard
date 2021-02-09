@@ -1,0 +1,23 @@
+Package: caul.dashboard
+Title: PKG_TITLE
+Version: 0.0.0.9000
+Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
+Description: PKG_DESC.
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny,
+    pkgload,
+    magrittr,
+    dplyr,
+    leaflet,
+    class,
+    KernSmooth,
+    sf,
+    plotly,
+    waiter,
+    echarts4r
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
